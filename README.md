@@ -18,8 +18,8 @@ Import each CSV file into its corresponding SQL table.
 
 EmployeeSQL folder contains the following folders: ERD, Resources, and SQL Script.
 
-#ERD: contains the diagram and schema script created using the following URL: https://app.quickdatabasediagrams.com
+# ERD: contains the diagram and schema script created using the following URL: https://app.quickdatabasediagrams.com
 
-#Resources: contains the six .csv files used to import into the postgreSQL tables.
+# Resources: contains the six .csv files used to import into the postgreSQL tables.
 
-#SQL Script: contains the codes split into two files, table_schemas.sql, and sql_challenge_queries.sql.  
+# SQL Script: contains the codes split into two files, table_schemas.sql, and sql_challenge_queries.sql.  

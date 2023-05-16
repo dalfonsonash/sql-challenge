@@ -40,7 +40,7 @@ CREATE TABLE salaries (
 );
 
 CREATE TABLE titles (
-  title_id VARCHAR(10) PRIMARY KEY,
+  title_id VARCHAR(4) PRIMARY KEY,
   title    VARCHAR(25) NOT NULL
 );
 

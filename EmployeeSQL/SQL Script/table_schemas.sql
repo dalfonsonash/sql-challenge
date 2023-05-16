@@ -13,7 +13,7 @@ CREATE TABLE employees (
   last_name     VARCHAR(255),
   sex           CHAR(1),
   hire_date     DATE,
-  FOREIGN KEY (emp_title) REFERENCES titles (title)
+  FOREIGN KEY (emp_title) REFERENCES titles (title_id)
 );
 
 CREATE TABLE dept_emp (
